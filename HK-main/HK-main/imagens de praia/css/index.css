@@ -1,0 +1,41 @@
+.TRIGGER{
+    width: 100%;
+    height: 650px;
+    background: url(../img/Prariria.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position-x: center;
+}
+.HAUNT{
+    margin-bottom: 0px;
+}
+.DIED{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.DOWN{
+    width: 300PX;
+
+}
+
+
+.DOWN img{
+    width: 300PX;
+}
+
+
+.NOHAPPY{
+    width: 300PX
+
+}
+.NOHAPPY img{
+    width: 300PX;
+}
+
+.SADDY{
+    width: 300PX;
+
+}
+.SADDY img{
+    width: 300PX;
+}
