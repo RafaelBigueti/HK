@@ -43,3 +43,30 @@
 .SADDY img {
     width: 300PX;
 }
+
+.link-config a{
+    font-weight: bold;
+    background-color: royalblue;
+    color: silver;
+    padding: 7px;
+    border-radius: 3px;
+}
+
+.link-config a:hover{
+    color: rgb(255, 228, 78);
+    background-color: rgb(10, 112, 10);
+}
+
+
+.espbutton{
+    margin-bottom: 20px;
+}
+
+@media only screen and (max-width: 1125px) {
+  body {
+    background-color: rgb(73, 126, 139);
+  }
+  .banner{
+    height: 200px;
+  }
+}
